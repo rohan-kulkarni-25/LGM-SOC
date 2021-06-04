@@ -1,9 +1,0 @@
-- color: d73a4a
-  description: Something isnt working
-  name: bug
-- color: 0075ca
-  description: Improvements or additions to documentation
-  name: documentation
-- color: cfd3d7
-  description: This issue or pull request already exists
-  name: duplicate
