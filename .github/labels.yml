@@ -7,3 +7,6 @@
 - name: duplisssscate
   description: This issue or pull request already exists
   color: cfd3d7
+- name: 00g
+  description: Something isn't working
+  color: d73a4a
