@@ -1,0 +1,17 @@
+name: Sync labels in the declarative way
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Label Syncer
+      - uses: micnncim/action-label-syncer@v1.3.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        with:
+          manifest: .github/labels.yml
+          prune: false
