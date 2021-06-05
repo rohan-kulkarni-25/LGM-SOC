@@ -14,4 +14,3 @@ jobs:
         GITHUB_REPOSITORY: ${{ github.repository }}
       with:
         manifest: .github/labels.yml
-        prune: false
