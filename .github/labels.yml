@@ -1,12 +1,4 @@
-- name: bu000g
+- name: Level 1
   description: Something isn't working
   color: d73a4a
-- name: documentation
-  description: Improvements or additions to documentation
-  color: 0075ca
-- name: duplisssscate
-  description: This iquest already exists
-  color: cfd3d7
-- name: 00g
-  description: Something isn't working
-  color: d73a4a
+
