@@ -1,111 +1,37 @@
 [
   {
     "name": "good first issue",
-    "description": "This issue will be counted as good first issue",
-    "color": "7f0799"
+    "description": "This issue is good for first timers",
+    "color": "a9e3ff"
   },
   {
-    "name": "help wanted",
-    "color": "7f0799"
+    "name": "🆘 help wanted",
+    "description": "This issue needs help ! Please help if possible !",
+    "color": "ff00ff"
   },
   {
-    "name": "⛔️ status: discarded",
-    "color": "eeeeee"
-  },
-  {
-    "name": "✨ goal: improvement",
-    "color": "ffffff"
-  },
-  {
-    "name": "❓ talk: question",
-    "color": "f9bbe5"
-  },
-  {
-    "name": "⭐ goal: addition",
-    "color": "ffffff"
-  },
-  {
-    "name": "🏁 status: ready for dev",
-    "color": "cccccc"
-  },
-  {
-    "name": "💬 talk: discussion",
-    "color": "f9bbe5"
-  },
-  {
-    "name": "💻 aspect: code",
-    "color": "04338c"
-  },
-  {
-    "name": "📄 aspect: text",
-    "color": "04338c"
-  },
-  {
-    "name": "🔒 staff only",
-    "color": "7f0799"
-  },
-  {
-    "name": "🕹 aspect: interface",
-    "color": "04338c"
-  },
-  {
-    "name": "🚦 status: awaiting triage",
-    "color": "333333"
-  },
-  {
-    "name": "🚧 status: blocked",
-    "color": "999999"
-  },
-  {
-    "name": "🛠 goal: fix",
-    "color": "ffffff"
-  },
-  {
-    "name": "🟥 priority: critical",
+    "name": "🟥 Level : 4 ",
+    "description": "This issue will be considered as level 4 issue for LGM-SOC 21",
     "color": "b60205"
   },
   {
-    "name": "🟧 priority: high",
+    "name": "🟧 Level : 3 ",
+    "description": "This issue will be considered as level 3 issue for LGM-SOC 21",
     "color": "ff9f1c"
   },
   {
-    "name": "🟨 priority: medium",
+    "name": "🟨 Level : 2 ",
+    "description": "This issue will be considered as level 2 issue for LGM-SOC 21",
     "color": "ffcc00"
   },
   {
-    "name": "🟩 priority: low",
+    "name": "🟩 Level : 1 ",
+    "description": "This issue will be considered as level 1 issue for LGM-SOC 21",
     "color": "cfda2c"
   },
   {
-    "name": "🤖 aspect: dx",
-    "color": "04338c"
-  },
-  {
-    "name": "🧹 status: ticket work required",
-    "color": "666666"
-  },
-  {
-    "name": "🔢 points: 1",
-    "color": "62A1A6"
-  },
-  {
-    "name": "🔢 points: 2",
-    "color": "62A1A6"
-  },
-  {
-    "name": "🔢 points: 3",
-    "color": "62A1A6"
-  },
-  {
-    "name": "🔢 points: 5",
-    "color": "62A1A6"
-  },
-  {
-    "name": "🔢 points: 8",
-    "color": "62A1A6"
-  },
-  {
-    "name": "🔢 points: 13",
-    "color": "62A1A6"
+    "name": " LGM-SOC 21 ",
+    "description": "This issue will be considered for LGM-SOC 21",
+    "color": "d93f0b"
   }
 ]
