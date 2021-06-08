@@ -42,6 +42,7 @@
     .topnav a.icon {
       float: right;
       display: block;
+      
     }
   }
   
@@ -127,6 +128,7 @@
 
 
 table, th, td {
+  margin-left: 30vw;
   border: 1px solid black;
   padding: 1vmin;
   
@@ -145,3 +147,130 @@ table, th, td {
 }
 
 
+@media screen and (max-width: 600px) {
+  
+  .topnav {
+    overflow: hidden;
+    background-color: white;
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 2px #dfdfdf;
+  border-radius: 2vmin;
+
+    
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 2vmin;
+    margin-left: 1vmin;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-radius: 2vmin;
+  }
+  
+  .topnav a.active {
+    background-color: #ffae00;
+    color: white;
+    border-radius: 2vmin;
+  }
+  
+  .topnav .icon {
+    display: none;
+  }
+
+
+  .logo{
+    width: 97vw;
+    height: 50vh;
+    padding: 2vmin;
+    border-radius: 5vmin;
+}
+.infobox{
+    background-color: #ffae00;
+    padding: 2vmin;
+    border-radius: 2vmin;
+  width: 92vw;
+  height: 70vh;
+  text-align: center;
+ margin-bottom: 1vmin;
+ margin-top: 1vmin;
+  
+}
+
+.infobox a{
+    text-align: center;
+    padding-left: 5vmin;
+    padding-right: 5vmin;
+    border-style: solid;
+    padding: 2vmin;
+    font-size: 4vmin;
+    margin-top: 2vmin;
+    border-radius: 3vmin;
+    border-color: black;
+    color: black;
+    text-decoration: none;
+}
+
+
+.btns{
+  justify-content: center;
+  margin-top: 7vh;
+}
+
+.btns a:hover{
+  background-color: white;
+  font-size: 5vmin;
+  cursor: pointer;
+}
+
+
+
+.footer {
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 95%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 2vmin;
+  padding: 1vmin;
+  border-radius: 2vmin;
+}
+
+.btns h3{
+  font-size: 3vmin;
+  text-align: center;
+}
+
+
+
+table, th, td {
+  margin-left: 5vmin;
+border: 1px solid black;
+padding: 1vmin;
+
+}
+
+.btns img{
+width: 30vmin;
+}
+
+.btns h1{
+font-size: 8vmin;
+}
+
+.btns h2{
+font-size: 4vmin;
+}
+
+}
