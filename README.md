@@ -1,5 +1,5 @@
 <img src="assets/images/logo.png">
-<br><hr><br>
+<br><br>
 <h1 align="center">ISSUE / PR LABELS AND THEIR MEANING</h1>
 
  <table style="width:100%">
@@ -45,7 +45,7 @@
   
 </table> 
 
-<br><br><hr><br><br>
+<br><br><br><br>
 
 <h1 align="center">PROJECT LIST WITH PROJECT ADMIN AND MENTORS</h1>
 
