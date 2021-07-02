@@ -1,0 +1,24 @@
+#projectbox {
+  display: flex;
+  justify-content: space-around;
+}
+
+#mentor {
+  /* background-color: aliceblue; */
+  width: 30%;
+}
+
+#name {
+  width: 30%;
+}
+#pa {
+  width: 30%;
+}
+#mentor {
+  width: 30%;
+}
+
+body {
+  background-color: khaki;
+  font-size: 3vmin;
+}
