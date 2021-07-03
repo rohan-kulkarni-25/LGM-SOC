@@ -7,7 +7,7 @@ fetch('../json/projects.json')
             for (let m = 0; m < project[i].Mentors.length; m++) {
 
                 let projectdiv = document.createElement('div');
-                projectdiv.innerHTML = `<div id="projectbox"><div id="name">${project[i].ProjectName}</div><div id="pa">${project[i].ProjectAdmin.Name}</div><div id="mentor">${project[i].Mentors[m].Name}</div></div><hr>`;
+                projectdiv.innerHTML = `<div id="projectbox"><div id="name"><a href="https://www.github.com/${project[i].Repository}">${project[i].ProjectName}<a></div><div id="pa"><a href="${project[i].ProjectAdmin.GitHub}">${project[i].ProjectAdmin.Name}</a></div><div id="mentor"><a href="${project[i].Mentors[m].GitHub}">${project[i].Mentors[m].Name}</a></div></div><hr>`;
 
 
 
