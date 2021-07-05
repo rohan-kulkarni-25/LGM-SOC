@@ -241,8 +241,8 @@
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
-      "Name": null,
-      "GitHub": null
+      "Name": "Ashutosh Sahu",
+      "GitHub": "https://github.com/Ashuto7h"
     },
     "Mentors": [
       {
@@ -449,10 +449,6 @@
       {
         "Name": "Avinash Kumar",
         "GitHub": "https://github.com/kumaravinash9"
-      },
-      {
-        "Name": "Mohd Rizwan Shaikh",
-        "GitHub": "https://github.com/Rizwan-S"
       }
     ]
   },
@@ -577,8 +573,8 @@
         "GitHub": "https://github.com/arpit456jain"
       },
       {
-        "Name": "Yash Thakare",
-        "GitHub": "https://github.com/YashThakare"
+        "Name": "Nikita Anil Gupta",
+        "GitHub": "https://github.com/gnikita432"
       }
     ]
   },
@@ -594,8 +590,8 @@
     },
     "Mentors": [
       {
-        "Name": "Ankita Pal ",
-        "GitHub": "https://github.com/Ankita297"
+        "Name": "SUMIT SINGH ",
+        "GitHub": "https://github.com/WH0SUMIT"
       },
       {
         "Name": "Atharva Gadkari",
@@ -743,6 +739,14 @@
       {
         "Name": "Ashwin Kumar Ramaswamy",
         "GitHub": "https://github.com/Ash515"
+      },
+      {
+        "Name": "Mohd Rizwan Shaikh",
+        "GitHub": "https://github.com/Rizwan-S"
+      },
+      {
+        "Name": "Ankita Pal",
+        "GitHub": "https://github.com/Ankita297"
       }
     ]
   },
@@ -856,6 +860,10 @@
       {
         "Name": "Kanak",
         "GitHub": "https://github.com/kanak22"
+      },
+      {
+        "Name": "SUMIT SINGH ",
+        "GitHub": "https://github.com/WH0SUMIT"
       }
     ]
   },
@@ -1138,7 +1146,7 @@
     ]
   },
   {
-    "ProjectName": "ProjectYard",
+    "ProjectName": "ML-ProjectYard",
     "Repository": "ashishsahu1/ML-ProjectYard",
     "Description": null,
     "Website": null,
@@ -1151,10 +1159,6 @@
       {
         "Name": "Devansh Tayal",
         "GitHub": "https://www.github.com/devansh2005"
-      },
-      {
-        "Name": "Soumik Kumar Baithalu",
-        "GitHub": "https://github.com/soumik2012"
       }
     ]
   },
@@ -1264,6 +1268,44 @@
     "ProjectAdmin": {
       "Name": "Soumik Kumar Baithalu",
       "GitHub": "https://github.com/soumik2012/Chathub"
+    },
+    "Mentors": [
+      {
+        "Name": null,
+        "GitHub": null
+      }
+    ]
+  },
+  {
+    "ProjectName": "Web-dev-mini-Projects",
+    "Repository": "Ayushparikh-code/Web-dev-mini-projects",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Ayush Parikh",
+      "GitHub": "https://github.com/soumik2012/Chathub"
+    },
+    "Mentors": [
+      {
+        "Name": "S Harshita",
+        "GitHub": "https://github.com/harshita2216"
+      },
+      {
+        "Name": "Shloka Gupta",
+        "GitHub": "https://github.com/chicken-biryani"
+      }
+    ]
+  },
+  {
+    "ProjectName": "Face-Mask-Detection",
+    "Repository": "Ayushparikh-code/Face--Mask--Detection",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Ayush Parikh",
+      "GitHub": "https://github.com/Ayushparikh-code"
     },
     "Mentors": [
       {
