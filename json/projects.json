@@ -17,6 +17,10 @@
       {
         "Name": "Monish B",
         "GitHub": "https://github.com/monizb"
+      },
+      {
+        "Name": "Akanksha Priya",
+        "GitHub": "https://github.com/Spring-dot"
       }
     ]
   },
@@ -38,6 +42,14 @@
       {
         "Name": "Shloka Gupta",
         "GitHub": "https://github.com/chicken-biryani"
+      },
+      {
+        "Name": "Satyam Dengre",
+        "GitHub": "https://github.com/satyampgt4"
+      },
+      {
+        "Name": "Dolly Jain",
+        "GitHub": "https://github.com/dollyjain51099"
       }
     ]
   },
@@ -63,6 +75,10 @@
       {
         "Name": "Aayush Jain",
         "GitHub": "https://github.com/jainaayush01"
+      },
+      {
+        "Name": "Meha Bhalodiya",
+        "GitHub": "https://github.com/mehabhalodiya"
       }
     ]
   },
@@ -109,6 +125,10 @@
       {
         "Name": "Harshal Raikwar",
         "GitHub": "https://github.com/Harshal0902"
+      },
+      {
+        "Name": "Satyam Dengre",
+        "GitHub": "https://github.com/satyampgt4"
       }
     ]
   },
@@ -119,10 +139,14 @@
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
-      "Name": "Kishore M",
-      "GitHub": "https://github.com/KISHOREMUTHU"
+      "Name": "Hari Kheshav S K",
+      "GitHub": "https://github.com/Harikheshav"
     },
     "Mentors": [
+      {
+        "Name": "Kishore M",
+        "GitHub": "https://github.com/KISHOREMUTHU"
+      },
       {
         "Name": "Kapil Kumar",
         "GitHub": "https://github.com/kapilkumar2001"
@@ -235,23 +259,6 @@
     ]
   },
   {
-    "ProjectName": "HealthPredictor",
-    "Repository": "",
-    "Description": null,
-    "Website": null,
-    "Video": null,
-    "ProjectAdmin": {
-      "Name": "Ashutosh Sahu",
-      "GitHub": "https://github.com/Ashuto7h"
-    },
-    "Mentors": [
-      {
-        "Name": null,
-        "GitHub": null
-      }
-    ]
-  },
-  {
     "ProjectName": "Awesome Portfolio Websites",
     "Repository": "smaranjitghose/awesome-portfolio-websites",
     "Description": null,
@@ -313,7 +320,7 @@
     "Video": null,
     "ProjectAdmin": {
       "Name": "Qazi Maaz Arshad",
-      "GitHub": "QAZIMAAZARSHAD/Movie-Streaming-Website"
+      "GitHub": "https://github.com/QAZIMAAZARSHAD"
     },
     "Mentors": [
       {
@@ -575,6 +582,10 @@
       {
         "Name": "Nikita Anil Gupta",
         "GitHub": "https://github.com/gnikita432"
+      },
+      {
+        "Name": "Mohd Rizwan Shaikh",
+        "GitHub": "https://github.com/Rizwan-S"
       }
     ]
   },
@@ -613,6 +624,10 @@
       {
         "Name": "Pranav Singh",
         "GitHub": "https://github.com/theBeginner86"
+      },
+      {
+        "Name": "RIA TYAGI",
+        "GitHub": "https://github.com/riasenpai"
       }
     ]
   },
@@ -864,6 +879,10 @@
       {
         "Name": "SUMIT SINGH ",
         "GitHub": "https://github.com/WH0SUMIT"
+      },
+      {
+        "Name": "Atharva Gadkari",
+        "GitHub": "https://github.com/atharvagadkari05"
       }
     ]
   },
@@ -1049,6 +1068,10 @@
       {
         "Name": "Ashutosh Kumar Verma",
         "GitHub": "https://github.com/AshuKV"
+      },
+      {
+        "Name": "Esha Goel",
+        "GitHub": "https://github.com/goelesha"
       }
     ]
   },
@@ -1159,6 +1182,10 @@
       {
         "Name": "Devansh Tayal",
         "GitHub": "https://www.github.com/devansh2005"
+      },
+      {
+        "Name": "Esha Goel",
+        "GitHub": "https://github.com/goelesha"
       }
     ]
   },
@@ -1267,7 +1294,7 @@
     "Video": null,
     "ProjectAdmin": {
       "Name": "Soumik Kumar Baithalu",
-      "GitHub": "https://github.com/soumik2012/Chathub"
+      "GitHub": "https://github.com/soumik2012"
     },
     "Mentors": [
       {
@@ -1284,7 +1311,7 @@
     "Video": null,
     "ProjectAdmin": {
       "Name": "Ayush Parikh",
-      "GitHub": "https://github.com/soumik2012/Chathub"
+      "GitHub": "https://github.com/Ayushparikh-code"
     },
     "Mentors": [
       {
@@ -1306,6 +1333,23 @@
     "ProjectAdmin": {
       "Name": "Ayush Parikh",
       "GitHub": "https://github.com/Ayushparikh-code"
+    },
+    "Mentors": [
+      {
+        "Name": null,
+        "GitHub": null
+      }
+    ]
+  },
+  {
+    "ProjectName": "Empower Her",
+    "Repository": "vidhi-mody/EmpowHer",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Vidhi Mody",
+      "GitHub": "https://github.com/vidhi-mody"
     },
     "Mentors": [
       {
