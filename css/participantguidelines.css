@@ -1,0 +1,147 @@
+body {
+  margin: 0 auto;
+  padding: auto;
+}
+
+.head {
+  background-color: white;
+  padding: 0.2em;
+  font-size: 5em;
+  background-color: rgba(255, 68, 0, 0.795);
+  text-align: center;
+}
+
+.head img {
+  width: 0.5em;
+}
+
+.step {
+  margin: 3em;
+  padding: 1em;
+  background-color: #d8eaf6;
+  border-radius: 12px;
+  border: 2px solid black;
+  box-shadow: 4px 4px 16px 16px rgba(255, 0, 255, 0.178);
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  height: fit-content;
+}
+
+.step p {
+  font-size: 2em;
+  text-align: center;
+}
+.step h3 {
+  font-size: 1.5em;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  margin-bottom: 1em;
+}
+
+button {
+  background-color: white;
+  border-radius: 12px;
+  padding: 1em;
+  border: 2px solid black;
+  cursor: pointer;
+  font-size: 2em;
+  margin: 1em;
+}
+
+button:hover {
+  background-color: rgb(255, 68, 0);
+  border-radius: 12px;
+  padding: 1em;
+  border: 2px solid black;
+  cursor: pointer;
+  /* font-size: 1.1em; */
+  box-shadow: 2px 2px 16px 16px rgba(255, 255, 0, 0.493);
+}
+.btnbox {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 0%;
+  align-content: center;
+}
+
+.hide {
+  display: none;
+}
+
+a {
+  background-color: white;
+  border-radius: 12px;
+  padding: 1em;
+  border: 2px solid black;
+  cursor: pointer;
+  font-size: 2em;
+  margin: 1em;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  background-color: rgb(255, 68, 0);
+  border-radius: 12px;
+  padding: 1em;
+  border: 2px solid black;
+  cursor: pointer;
+  /* font-size: 1.1em; */
+  box-shadow: 2px 2px 16px 16px rgba(255, 255, 0, 0.493);
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+.boot {
+  width: 1.2em;
+}
+
+video {
+  margin: 0 auto;
+  width: 60em;
+}
+
+li {
+  font-size: 2em;
+}
+
+.faqs {
+  background-color: gold;
+  border-radius: 12px;
+  border: 3px solid red;
+  margin: 1em;
+}
+
+.faqs a {
+  background-color: white;
+  border-radius: 12px;
+  border: 2px solid black;
+  cursor: pointer;
+  font-size: 0.5em;
+  text-decoration: none;
+  color: black;
+}
+
+.faqs a:hover {
+  background-color: rgb(255, 68, 0);
+  border-radius: 12px;
+  border: 2px solid black;
+  cursor: pointer;
+  box-shadow: 2px 2px 16px 16px rgba(255, 255, 0, 0.493);
+  text-decoration: none;
+  color: black;
+}
+
+.que p,
+.ans p {
+  text-align: left;
+  padding-left: 1em;
+}
