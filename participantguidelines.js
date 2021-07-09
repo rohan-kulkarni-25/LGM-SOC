@@ -56,9 +56,11 @@ function tile3no() {
 }
 
 function tile3yes() {
+    document.getElementById('nick').classList.add('hide');
+    document.getElementById('role').classList.add('hide');
     document.getElementById('3').classList.add('hide');
     document.getElementById('4').classList.remove('hide');
-    document.getElementById('nick').classList.add('hide');
+
 }
 
 function tile4no() {
@@ -122,20 +124,16 @@ function tile7yes() {
 }
 
 function nickname() {
-    let nickdiv = document.createElement('div');
-    nickdiv.innerHTML = `<div class="step" id="nick">
-    <p>Follow the steps to change your nickname</p>
-    <video src="../assets/images/nickname.mp4" controls></video>
-</div>`
-    document.getElementById('sheet').appendChild(nickdiv);
+    document.getElementById('nick').classList.remove('hide');
+
+    document.getElementById('role').classList.add('hide');
+
 }
 
 function takerole() {
+    document.getElementById('role').classList.remove('hide');
 
-    document.getElementById('nick').innerHTML = `
-    <p>Follow the steps to take participant role</p>
-    <video src="../assets/images/role.mp4" controls></video>`
-    document.getElementById('sheet').appendChild(nickdiv);
+    document.getElementById('nick').classList.add('hide');
 }
 
 function selectproj() {
