@@ -30,7 +30,7 @@ function tile2no() {
     document.getElementById('2').innerHTML = `<p>Please Join Us On Discord Right Now !</p>
     
     <div class="btnbox">
-    <a class="dlink" href="https://discord.com/invite/QMmShus2K5" target="_blank">JOIN DISCORD <img src="../node_modules/bootstrap-icons/icons/discord.svg" alt="" class="boot"></a>
+    <a class="dlink" href="https://discord.com/invite/QMmShus2K5" target="_blank">JOIN DISCORD</a>
         <button onclick="tile2yes()">JOINED ? LET'S GO AHEAD ! 😀</button>
 
     </div>`
