@@ -169,10 +169,6 @@
         "GitHub": "https://github.com/Ashish2030"
       },
       {
-        "Name": "Sameeksha RL",
-        "GitHub": "https://github.com/sameeksharl"
-      },
-      {
         "Name": "Amit Kumar Mishra",
         "GitHub": "https://github.com/Amit366"
       },
@@ -319,8 +315,8 @@
   {
     "ProjectName": "Movie Streaming Website",
     "Repository": "QAZIMAAZARSHAD/Movie-Streaming-Website",
-    "Description": null,
-    "Website": null,
+    "Description": "'Apna Theatre' is a movie streaming website that allows users to binge watch their favorite movies, web-series, and TV shows",
+    "Website": "https://qazimaazarshad.github.io/Movie-Streaming-Website/",
     "Video": null,
     "ProjectAdmin": {
       "Name": "Qazi Maaz Arshad",
@@ -344,8 +340,8 @@
   {
     "ProjectName": "Voters Registration Portal",
     "Repository": "QAZIMAAZARSHAD/Voters-Registration-Portal",
-    "Description": null,
-    "Website": null,
+    "Description": "A website for the eligible Indian citizens to register themselves as voters in the electoral roll",
+    "Website": "https://qazimaazarshad.github.io/Voters-Registration-Portal/",
     "Video": null,
     "ProjectAdmin": {
       "Name": "Qazi Maaz Arshad",
@@ -365,7 +361,7 @@
   {
     "ProjectName": "Income Tax Calculator",
     "Repository": "QAZIMAAZARSHAD/Income-Tax-Calcultor",
-    "Description": null,
+    "Description": "It is a GUI application that calculates the liable tax of a salaried Indian citizen",
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
@@ -373,10 +369,6 @@
       "GitHub": "https://github.com/QAZIMAAZARSHAD"
     },
     "Mentors": [
-      {
-        "Name": "Sameeksha RL",
-        "GitHub": "https://github.com/sameeksharl"
-      },
       {
         "Name": "Sakshi Kataria",
         "GitHub": "https://github.com/sakshi-kataria1002"
@@ -567,10 +559,6 @@
     },
     "Mentors": [
       {
-        "Name": "Sameeksha RL",
-        "GitHub": "https://github.com/sameeksharl"
-      },
-      {
         "Name": "Soumik Mukherjee",
         "GitHub": "https://github.com/Procoder16"
       }
@@ -579,8 +567,8 @@
   {
     "ProjectName": "Makes Math Easy",
     "Repository": "makesmatheasy/makesmatheasy",
-    "Description": null,
-    "Website": null,
+    "Description": "Aims to provide stepwise solutions to Various Math Problems without any server interaction. This Project also got global recognition, even though it's not officially released anywhere yet. Focusing on creating a webapp + library. It's beginner friendly Project, thing required is just a Good Problem Solving Skills, to deal with various Algorithms for Calculators.",
+    "Website": "https://makesmatheasy.github.io/makesmatheasy",
     "Video": null,
     "ProjectAdmin": {
       "Name": "Rajinderpal Singh",
@@ -801,7 +789,7 @@
   {
     "ProjectName": "Awesome Python Scripts",
     "Repository": "prathimacode-hub/Awesome_Python_Scripts",
-    "Description": null,
+    "Description": "This project is a beginner friendly and for all the pythonistas down the lane. It comprises of a curated collection of python scripts that would make you go wow and a perfect place to get started with real-time python projects.",
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
@@ -812,10 +800,6 @@
       {
         "Name": "Prathima Kadari",
         "GitHub": "https://github.com/prathimacode-hub"
-      },
-      {
-        "Name": "Sameeksha RL",
-        "GitHub": "https://github.com/sameeksharl"
       },
       {
         "Name": "Prakhar Shreyash",
@@ -968,7 +952,7 @@
   {
     "ProjectName": "ML-ProjectKart",
     "Repository": "prathimacode-hub/ML-ProjectKart",
-    "Description": null,
+    "Description": "This repository would be a kart for all the projects based on machine learning, deep learning, computer vision, natural language processing and has task for everyone. It has got everything covered to be a pro.",
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
@@ -1014,9 +998,9 @@
   {
     "ProjectName": "Certificate Generation and Verification System",
     "Repository": "vigneshshettyin/Flask-Generate-Certificate",
-    "Description": null,
-    "Website": null,
-    "Video": null,
+    "Description": "Certificate Generation and Verification System project aims in developing a computerized system to maintain and generate the certificate. It has an admin login through which the admin can monitor the whole system. It also has a facility where users after logging in to their account can monitor and generate a certificate for their particular use. Admin will manage user logins, will have the option to deactivate any user. Every time any changes are done an automated email will be sent depending on the update. Overall this project is being developed to help the users in the best way possible and also to reduce human efforts.",
+    "Website": "https://certify-us.herokuapp.com/",
+    "Video": "https://www.youtube.com/watch?v=h3VKpZDOVqw",
     "ProjectAdmin": {
       "Name": "Vignesh Shetty",
       "GitHub": "https://github.com/vigneshshettyin"
@@ -1126,10 +1110,6 @@
       {
         "Name": "Mayank Bajaj",
         "GitHub": "https://github.com/mayank8200"
-      },
-      {
-        "Name": "Shloka Gupta",
-        "GitHub": "https://github.com/chicken-biryani"
       }
     ]
   },
@@ -1237,7 +1217,7 @@
   {
     "ProjectName": "NavigateMe",
     "Repository": "anupam-b/NavigateMe",
-    "Description": null,
+    "Description": "This AI bot give users a new way to interact with Maps through text-based conversational interfaces.",
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
@@ -1373,8 +1353,8 @@
     },
     "Mentors": [
       {
-        "Name": "Soham Parekh",
-        "GitHub": "https://github.com/und3fined-v01d"
+        "Name": null,
+        "GitHub": null
       }
     ]
   },
@@ -1409,6 +1389,20 @@
         "Name": "Debashish kumar Sahoo",
         "GitHub": "https://github.com/Debashish-hub"
       }
+    ]
+  },
+  {
+    "ProjectName": "WEBDEV PlayYard",
+    "Repository": "LetsGrowMoreCommunity/WebDev-Playyard",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "LetsGrowMore",
+      "GitHub": "https://github.com/LetsGrowMoreCommunity"
+    },
+    "Mentors": [
+
     ]
   }
 ]
